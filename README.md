@@ -17,8 +17,8 @@ Complete AWS Data Engineering training covering:
 NYC Yellow Taxi Trip Data
 
 ## Progress Tracker
-- [x] Week 1, Day 1: AWS Fundamentals ✅
-- [ ] Week 1, Day 2-3: Python & Boto3 🔄
+- [x] Week 1, Day 1: AWS Fundamentals 
+- [ ] Week 1, Day 2-3: Python & Boto3 
 - [ ] Week 1, Day 4-5: SQL & Data Modeling
 - [ ] Week 2-4: To be completed
 
